@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Baobao &amp; David&#39;s Wedding on Hugo Apéro</title>
-    <link>https://www.example.org/</link>
-    <description>Recent content in Baobao &amp; David&#39;s Wedding on Hugo Apéro</description>
+    <title>Baobao Zhang &amp; David Self Wedding on Zhang-Self Wedding</title>
+    <link>https://www.baobaoanddavid.com/</link>
+    <description>Recent content in Baobao Zhang &amp; David Self Wedding on Zhang-Self Wedding</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://www.example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.baobaoanddavid.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contributors</title>
-      <link>https://www.example.org/contributors/</link>
+      <link>https://www.baobaoanddavid.com/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/contributors/</guid>
+      <guid>https://www.baobaoanddavid.com/contributors/</guid>
       <description>&lt;p&gt;Thank you to all the folks who have contributed both technical and creative skills to this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;http://desiree.rbind.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon :giraffe:&lt;/a&gt; (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://www.garrickadenbuie.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Garrick Aden-Buie :mage:&lt;/a&gt; (debugged headroom.js and lent his panelset.js code to the theme)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://www.allisonhorst.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allison Horst :dog2:&lt;/a&gt; (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot :hedgehog:)&lt;/p&gt;</description>
     </item>
     <item>
       <title>License</title>
-      <link>https://www.example.org/license/</link>
+      <link>https://www.baobaoanddavid.com/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/license/</guid>
-      <description>&lt;p&gt;My &#xA;&lt;a href=&#34;https://www.example.org/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
+      <guid>https://www.baobaoanddavid.com/license/</guid>
+      <description>&lt;p&gt;My &#xA;&lt;a href=&#34;https://www.baobaoanddavid.com/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
     </item>
   </channel>
 </rss>

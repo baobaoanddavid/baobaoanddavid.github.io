@@ -5,12 +5,12 @@ action_type: text
 description: We look forward to celebrating with you!
 image_left: true
 images:
-- img/revoir.jpg
+- img/engagement.JPG
 show_action_link: false
 show_social_links: false
 subtitle: May 31, 2025 | Ithaca, NY
 text_align_left: false
-title: Baobao & David's Wedding
+title: Baobao Zhang & David Self Wedding
 type: home
 ---
 

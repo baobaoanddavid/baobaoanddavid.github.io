@@ -1,7 +1,7 @@
-baseURL = "https://www.example.org/"
+baseURL = "https://www.baobaoanddavid.com"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Zhang-Self Wedding"
 author = "Alison Hill"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -29,11 +29,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
+  orgName = "Zhang-Self Wedding"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/rings.png"
+  logo = "/img/rings.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -42,7 +42,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/engagement.JPG"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
   
