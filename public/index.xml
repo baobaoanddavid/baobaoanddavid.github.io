@@ -8,13 +8,6 @@
     <language>en</language>
     <atom:link href="http://localhost:6508/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:6508/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6508/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Mauris lacinia odio suscipit ante et mollis tempor dis. Donec senectus purus mi dignissim justo hac efficitur tempus adipiscing. Malesuada nisi placerat a sociosqu efficitur hac vulputate orci integer. Dolor vulputate facilisis quis elementum varius pretium. Habitasse mollis blandit dis integer leo suscipit nibh. Primis cras fermentum in dolor velit, parturient accumsan condimentum pharetra.&lt;/p&gt;&#xA;&lt;p&gt;Aliquet at maximus interdum curae maximus. Aptent felis nulla lacinia, curae lectus fames maximus. Nec magnis iaculis; massa bibendum venenatis fames. Enim ultricies potenti nec vulputate maecenas maximus. Vehicula tempus eu, posuere curae et ultricies. Euismod eget eget nisi taciti viverra dolor dis lacus curabitur. Ex ac auctor nascetur suscipit pharetra sociosqu adipiscing. Posuere sodales pharetra litora penatibus erat vulputate. Dapibus facilisi venenatis etiam fusce cras hac.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contributors</title>
       <link>http://localhost:6508/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
