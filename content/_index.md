@@ -1,9 +1,9 @@
 ---
-description: We look forward to celebrating with you!
 show_action_link: true
 action_link: https://qualtricsxms2zldn2fv.qualtrics.com/jfe/form/SV_0Dsc3kM0Lr80SvY
-action_label: "RSVP by April 25"
-action_type: button
+action_label: "Click here to RSVP by April 25 &#10142;"
+action_type: text
+description: We look forward to celebrating with you!
 image_left: true
 images:
 - img/engagement.JPG
