@@ -108,10 +108,15 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About"
-    url = "/about/"
+    name = "RSVP"
+    title = "RSVP"
+    url = "https://qualtricsxms2zldn2fv.qualtrics.com/jfe/form/SV_0Dsc3kM0Lr80SvY"
     weight = 1
+  [[menu.header]]
+    name = "About Us"
+    title = "About Us"
+    url = "/about/"
+    weight = 2
   [[menu.header]]
     name = "Wedding Details"
     title = "Wedding Details"
