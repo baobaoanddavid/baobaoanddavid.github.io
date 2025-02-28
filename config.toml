@@ -121,7 +121,22 @@ enableEmoji = true
     name = "Wedding Details"
     title = "Wedding Details"
     url = "/wedding_details/"
-    weight = 2
+    weight = 3
+  [[menu.header]]
+    name = "Travel"
+    title = "FAQs"
+    url = "/travel/"
+    weight = 4
+  [[menu.header]]
+    name = "FAQs"
+    title = "FAQs"
+    url = "/faqs/"
+    weight = 5
+  [[menu.header]]
+    name = "Registry"
+    title = "Registry"
+    url = "/registry/"
+    weight = 6
 
     
   # Configure footer  
