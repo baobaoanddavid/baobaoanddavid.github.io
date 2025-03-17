@@ -6,6 +6,8 @@ show_title_as_headline: true
 title: Contributors
 ---
 
+We would like to thank the contributors to the Hugo Apéro theme that made our wedding website possible!
+
 Thank you to all the folks who have contributed both technical and creative skills to this project:
 
 + [Desirée De Leon :giraffe:](http://desiree.rbind.io/) (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)

@@ -113,17 +113,12 @@ enableEmoji = true
     url = "https://qualtricsxms2zldn2fv.qualtrics.com/jfe/form/SV_0Dsc3kM0Lr80SvY"
     weight = 1
   [[menu.header]]
-    name = "About Us"
-    title = "About Us"
-    url = "/about/"
-    weight = 2
-  [[menu.header]]
     name = "Wedding Details"
     title = "Wedding Details"
-    url = "/wedding_details/"
+    url = "/details/"
     weight = 3
   [[menu.header]]
-    name = "Travel"
+    name = "Travel + Accomodations"
     title = "FAQs"
     url = "/travel/"
     weight = 4
@@ -145,11 +140,6 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
