@@ -2,18 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://baobaoanddavid.com/about/</loc>
-  </url><url>
     <loc>https://baobaoanddavid.com/</loc>
   </url><url>
     <loc>https://baobaoanddavid.com/categories/</loc>
   </url><url>
     <loc>https://baobaoanddavid.com/contributors/</loc>
   </url><url>
+    <loc>https://baobaoanddavid.com/faqs/</loc>
+  </url><url>
     <loc>https://baobaoanddavid.com/license/</loc>
   </url><url>
     <loc>https://baobaoanddavid.com/series/</loc>
   </url><url>
     <loc>https://baobaoanddavid.com/tags/</loc>
+  </url><url>
+    <loc>https://baobaoanddavid.com/travel/</loc>
+  </url><url>
+    <loc>https://baobaoanddavid.com/details/</loc>
+  </url><url>
+    <loc>https://baobaoanddavid.com/registry/</loc>
   </url>
 </urlset>
