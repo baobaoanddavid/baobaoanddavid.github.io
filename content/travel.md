@@ -47,7 +47,7 @@ You can also travel to Syracuse Hancock International Airport (SYR) and drive fo
 
 ### Local Transit
 
-Driving a rental car or your personal vehicle is the most convenient way to get around Ithaca. But for those preferring public transportation, local bus services (Tompkins Consolidated Area Transi) and rideshare options are readily available to take you from your hotel to the wedding sites.
+Driving a rental car or your personal vehicle is the most convenient way to get around Ithaca. But for those preferring public transportation, local bus services by Tompkins Consolidated Area Transit (TCAT) and rideshare options are readily available to take you from your hotel to the wedding sites.
 
 # Accommodations
 
