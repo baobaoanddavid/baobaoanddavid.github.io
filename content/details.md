@@ -32,6 +32,8 @@ Sage Chapel, Cornell University
 
 Blessing of a Civil Marriage ceremony officiated by Rev. Paul Keene. Note the ceremony will start promptly at 3pm.
 
+If you are driving, there is free parking at [Hoy Garage](https://maps.app.goo.gl/HmreEHp5SQLyEMWy8), a 11-minute walk from Sage Chapel.
+
 ### 4:30-9:00 pm Wedding Reception with Dinner
 
 Stewart Park Large Pavilion

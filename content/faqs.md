@@ -6,6 +6,8 @@ show_title_as_headline: true
 title: Frequently Asked Questions (FAQs)
 ---
 
+We are happy to answer your questions about our wedding!
+
 # RSVP
 
 Q: How do I RSVP?
@@ -22,7 +24,7 @@ A: Please RSVP by April 22, 2025 to ensure we can accommodate everyone comfortab
 
 Q: Can I change my RSVP?
 
-A: If you need to change your RSVP, please fill out the RSVP webform again and we will use the most updated RSVP webform you filled out.
+A: If you need to change your RSVP, please fill out the RSVP webform again and we will use the most updated RSVP webform you submitted.
 
 # Wedding
 
@@ -118,7 +120,7 @@ A: Yes, we appreciate cash gifts. In Chinese wedding traditions, gifting cash in
 
 Q: Are either of you changing your last name?
 
-A: No, we will be keeping our given last names.
+A: No, we are keeping our last names. 
 
 # Contacting Us
 
