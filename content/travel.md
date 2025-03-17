@@ -20,7 +20,7 @@ Our Welcome BBQ Dinner will take place in the Small Pavilion in Stewart Park. En
 
 ## Ceremony: Sage Chapel at Cornell Campus
 
-Nestled within the scenic Cornell Univesity campus, Sage Chapel offers a picturesque setting for our ceremony.
+Nestled within the scenic Cornell University campus, Sage Chapel offers a picturesque setting for our ceremony.
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d7beeef3197e14bd4e5ae6f/1597933603264-QGEPY13DKZ99PXRIO5C4/DSC_7877.JPG" alt="Sage Chapel Cornell" width="300"/>
 
