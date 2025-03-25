@@ -36,7 +36,7 @@ A: Directions to the venue can be found in the Travel + Accommodations section o
 
 Q: Are there accommodations nearby?
 
-A: Yes, we have reserved blocks of rooms at the Hotel Ithaca (phone number: +1 607-583-0499). When booking, mention the "Zhang-Self Wedding" for a discount.
+A: Yes, we have reserved blocks of rooms at the Hotel Ithaca (reservation link: https://reservations.thehotelithaca.com/95060?groupID=4730169&hotelID=95060#/guestsandrooms). The special rate is $199 per night.
 
 -----------
 
