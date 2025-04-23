@@ -108,13 +108,13 @@ A: Yes, there will be a photographer or videographer.
 
 Q: Where are you registered?
 
-We are registered through Zola. Please see the Registry page for more information.
+We are registered through Zola: www.zola.com/registry/baobaoanddavid. Please see the Registry page for more information.
 
 -----------
 
 Q: Can we give cash gifts?
 
-A: Yes, we appreciate cash gifts. In Chinese wedding traditions, gifting cash in red envelopes is a cherished custom symbolizing good fortune, prosperity, and unity. Cash gifts help the newlyweds build their future together and provide practical support for starting their new life. This tradition reflects a deep appreciation for family and communal well-being, where each guest contributes to the couple’s shared dreams.
+A: Yes, we appreciate cash gifts at www.zola.com/registry/baobaoanddavid. In Chinese wedding traditions, gifting cash in red envelopes is a cherished custom symbolizing good fortune, prosperity, and unity. Cash gifts help the newlyweds build their future together and provide practical support for starting their new life. This tradition reflects a deep appreciation for family and communal well-being, where each guest contributes to the couple’s shared dreams.
 
 -----------
 
