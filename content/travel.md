@@ -53,9 +53,9 @@ Driving a rental car or your personal vehicle is the most convenient way to get 
 
 ## Hotel Block
 
-We’ve reserved a block of rooms at [Hotel Ithaca](https://www.thehotelithaca.com/) for your convenience. Enjoy modern amenities and a central location, making it easy to get to both the ceremony and the reception. The special rate is $199 per night.
+We’ve reserved a block of rooms at [Hotel Ithaca](https://www.thehotelithaca.com/) for your convenience. Enjoy modern amenities and a central location, making it easy to get to both the ceremony and the reception.
 
-Please use the following link to make a reservation: https://reservations.thehotelithaca.com/95060?groupID=4730169&hotelID=95060#/guestsandrooms
+Please call at +1 607-583-0499 and mention the “Zhang-Self Wedding” hotel block when reserving your room to receive our special rate of $199 per night.
 
 Hotel Ithaca is located within a short drive of both Cornell Campus and Stewart Park, ensuring you’re close to all the action.
 
