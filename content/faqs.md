@@ -18,7 +18,7 @@ A: You can RSVP via our wedding website. Simply click on the RSVP tab and fill o
 
 Q: What is the RSVP deadline?
 
-A: Please RSVP by April 22, 2025 to ensure we can accommodate everyone comfortably.
+A: Please RSVP by April 25, 2025 to ensure we can accommodate everyone comfortably.
 
 -----------
 
@@ -26,7 +26,19 @@ Q: Can I change my RSVP?
 
 A: If you need to change your RSVP, please fill out the RSVP webform again and we will use the most updated RSVP webform you submitted.
 
-# Wedding
+# Welcome BBQ
+
+Q: What is the dress code for the Welcome BBQ?
+
+A: The dress code is casual. We want everyone to feel comfortable and relaxed while enjoying the BBQ.
+
+-----------
+
+Q: What is served at the Welcome BBQ?
+
+A: We will have a variety of cookout foods, including burgers, hot dogs, and vegetarian options. There will also be alcoholic and non-alcoholic drinks and simple desserts.
+
+# Wedding Ceremony and Reception
 
 Q: How do I get to the venue?
 
@@ -42,7 +54,7 @@ A: Yes, we have reserved blocks of rooms at the Hotel Ithaca (phone number: +1 6
 
 Q: Will transportation be provided?
 
-A: There is no shuttle service provided, but we recommend driving or using local transit or rideshare services. There are many free parking spots at the wedding venues.
+A: There is no shuttle service provided, but we recommend driving or using local public transit (TCAT) or rideshare services. There are many free parking spots at the wedding venues.
 
 -----------
 
@@ -58,7 +70,7 @@ A: Due to space constraints, we can only accommodate named guests on the invitat
 
 -----------
 
-Q: What is the dress code?
+Q: What is the dress code for the wedding ceremony and reception?
 
 A: We recommend guests wear [cocktail attire](https://www.theknot.com/content/cocktail-wedding-attire). This includes tea-length, knee-length or midi dress; formal jumpsuit; suit and tie. Please wear comfortable shoes because the reception is within a park.
 
@@ -96,13 +108,20 @@ A: We recommend checking out the [Ithaca Festival](https://ithacafestival.org/),
 
 Q: What time should I arrive at the wedding ceremony?
 
-A: The wedding ceremony will start promptly at 3pm in Sage Chapel, Cornell University on May 31.
+A: The wedding ceremony will start *promptly* at 3pm in Sage Chapel, Cornell University on May 31.
 
 -----------
 
 Q: Will there be a photographer or videographer?
 
 A: Yes, there will be a photographer or videographer. 
+
+-----------
+
+Q: Will the wedding be livestreamed? 
+
+A: Yes, the wedding will be livestreamed via Zoom Webinar. Please email us if you would like a link.
+
 
 # Wedding Registry and Miscanellous 
 
