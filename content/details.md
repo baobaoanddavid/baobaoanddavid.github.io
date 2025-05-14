@@ -48,6 +48,8 @@ Cocktail hour, dinner, and dancing. Be ready to have some fun!
 
 [Cocktail attire](https://www.theknot.com/content/cocktail-wedding-attire): tea-length, knee-length or midi dress; formal jumpsuit; suit and tie. Please wear comfortable shoes because the reception is within a park.
 
+In keeping with Western and Chinese traditions, we kindly ask that guests refrain from wearing white or red on the wedding day.
+
 In late May, Ithaca, NY typically experiences a mix of warm and cool days, with average highs around 67°F (19°C) and lows around 44°F (7°C). 
 
 

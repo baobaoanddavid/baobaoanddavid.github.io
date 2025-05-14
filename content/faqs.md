@@ -74,6 +74,8 @@ Q: What is the dress code for the wedding ceremony and reception?
 
 A: We recommend guests wear [cocktail attire](https://www.theknot.com/content/cocktail-wedding-attire). This includes tea-length, knee-length or midi dress; formal jumpsuit; suit and tie. Please wear comfortable shoes because the reception is within a park.
 
+In keeping with Western and Chinese traditions, we kindly ask that guests refrain from wearing white or red on the wedding day.
+
 -----------
 
 Q: Is there a theme for the wedding?
