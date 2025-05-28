@@ -132,6 +132,11 @@ enableEmoji = true
     title = "Registry"
     url = "/registry/"
     weight = 6
+  [[menu.header]]
+    name = "Fun in Ithaca"
+    title = "Fun in Ithaca"
+    url = "/fun/"
+    weight = 7
   # Configure footer  
   [[menu.footer]]
     name = "License"
