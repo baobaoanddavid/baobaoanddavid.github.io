@@ -36,7 +36,7 @@ The [Ithaca Farmers' Market](https://ithacamarket.com/markets/saturday-at-the-pa
 
 # Wegmans
 
-[Wegmans (Ithaca Location)](https://www.tripadvisor.com/Restaurant_Review-g47958-d828539-Reviews-Wegmans-Ithaca_Finger_Lakes_New_York.html) is currently the #4 best rated restaurant in Ihtaca according to Trip Advisor. At the Wegmans Market Café, you can get sushi, burgers, salads, sandwiches, and more! Also great for all your grocery needs. Wegmans is Baobao and David's regular date lunch spot!
+[Wegmans (Ithaca Location)](https://www.tripadvisor.com/Restaurant_Review-g47958-d828539-Reviews-Wegmans-Ithaca_Finger_Lakes_New_York.html) is currently the #4 best rated restaurant in Ithaca according to Trip Advisor. At the Wegmans Market Café, you can get sushi, burgers, salads, sandwiches, and more! Also great for all your grocery needs. Wegmans is Baobao and David's regular date lunch spot!
 
 <img src="https://s3-media0.fl.yelpcdn.com/bphoto/yLXUwkSUtZLnO6v__iQ6pQ/348s.jpg" alt="Wegmans Ithaca" width="300"/>
 
